@@ -1052,8 +1052,5 @@
       "reviewCount": 4,
       "mealType": ["Beverage"]
     }
-  ],
-  "total": 50,
-  "skip": 0,
-  "limit": 30
+  ]
 }
